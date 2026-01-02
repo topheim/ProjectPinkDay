@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Our October &#8220;Pink&#8221; Tribute	</title>
+	<atom:link href="https://projectpinkday.com/portfolio/our-october-pink-tribute/feed/" rel="self" type="application/rss+xml" />
+	<link>https://projectpinkday.com/portfolio/our-october-pink-tribute/</link>
+	<description>A Year Off With Our Kids</description>
+	<lastBuildDate>Thu, 15 Oct 2015 14:56:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+	<item>
+		<title>
+		By: Helen		</title>
+		<link>https://projectpinkday.com/portfolio/our-october-pink-tribute/comment-page-1/#comment-125</link>
+
+		<dc:creator><![CDATA[Helen]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2015 22:49:13 +0000</pubDate>
+		<guid isPermaLink="false">http://projectpinkday.com/?post_type=jetpack-portfolio&#038;p=570#comment-125</guid>
+
+					<description><![CDATA[Love you guys!]]></description>
+			<content:encoded><![CDATA[<p>Love you guys!</p>
+<p id="comment-like-125" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://projectpinkday.com/portfolio/our-october-pink-tribute/?like_comment=125&#038;_wpnonce=499bdca735" class="comment-like-link needs-login" rel="nofollow" data-blog="83558553"><span>Like</span></a><span id="comment-like-count-125" class="comment-like-feedback">Liked by <a href="#" class="view-likers" data-like-count="1">1 person</a></span></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
